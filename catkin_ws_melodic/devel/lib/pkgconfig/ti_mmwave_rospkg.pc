@@ -1,0 +1,8 @@
+prefix=/catkin_ws/devel
+
+Name: ti_mmwave_rospkg
+Description: Description of ti_mmwave_rospkg
+Version: 3.3.0
+Cflags: -I/catkin_ws/devel/include -I/catkin_ws/src/ti_mmwave_rospkg/include
+Libs: -L${prefix}/lib -lmmwave
+Requires: 

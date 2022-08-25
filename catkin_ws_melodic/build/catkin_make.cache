@@ -1,0 +1,2 @@
+rplidar_ros:serial:ti_mmwave_rospkg
+-DCATKIN_DEVEL_PREFIX=/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/catkin_ws/install -G Unix Makefiles
